@@ -48,8 +48,6 @@ Additionally, note that:   -- Done.
  * Error handling should be implemented for undefined variables and out-of-bound array access
  * When complete, all of your tests should pass
 
-When you're all finished, write a `README` file detailing all steps required to successfully run the application. If you have added additional tests, provide documentation for what these future features are and what the tests are checking for.
-
 # Contributing
 
 This test case implementation was referenced heavily from prior Udacity student Matthew Cranford's very thorough walkthrough.
