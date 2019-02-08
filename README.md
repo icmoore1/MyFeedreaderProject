@@ -4,6 +4,7 @@ In this project I was given a web-based application that reads RSS feeds. The or
 
 ## Instructions:
 View index.html to see all tests implemented and status of each one.
+Github: https://github.com/icmoore1/MyFeedreaderProject
 
 # Development Strategy
 ## Each marked with '-- Done'
